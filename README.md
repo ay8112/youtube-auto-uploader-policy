@@ -63,7 +63,11 @@ If you discover policy violations or have questions:
 
 ## License
 
-This policy documentation is provided as-is for reference and adaptation. Users are encouraged to customize these policies for their specific use cases while maintaining compliance with YouTube's requirements.
+This policy documentation is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). 
+
+[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+You are free to use, modify, and distribute these policies with attribution. See [LICENSE.md](LICENSE.md) for full details and disclaimers.
 
 ## Updates
 

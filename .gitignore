@@ -1,0 +1,42 @@
+# .gitignore for YouTube Auto-Uploader Policy
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# OS files
+Thumbs.db
+Desktop.ini
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+logs/
+
+# Build artifacts (if any)
+dist/
+build/
+*.pdf
+*.docx
+*.odt
+
+# Local configuration
+.env
+.env.local
+config.local.*
+
+# Draft documents
+drafts/
+*.draft.md
