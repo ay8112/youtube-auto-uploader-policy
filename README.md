@@ -11,6 +11,7 @@ YouTube Auto-Uploaders are tools that automate the process of uploading videos t
 - **[POLICY.md](POLICY.md)** - Main policy document covering acceptable use, compliance, and guidelines
 - **[TERMS_OF_SERVICE.md](TERMS_OF_SERVICE.md)** - Legal terms and conditions for using auto-uploader tools
 - **[PRIVACY_POLICY.md](PRIVACY_POLICY.md)** - Privacy practices and data protection guidelines
+- **[SECURITY.md](SECURITY.md)** - Security best practices and vulnerability reporting
 - **[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)** - Community standards and behavior expectations
 - **[CONTRIBUTING.md](CONTRIBUTING.md)** - Guidelines for contributing to policy documentation
 
